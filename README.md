@@ -10,12 +10,21 @@
 <img width="1799" height="1490" alt="image" src="https://github.com/user-attachments/assets/2bf66f4e-1a41-4cb5-8ae8-65f1d1325480" />
 
 # BOM
+
 1x Seeed XIAO RP2040
+
 9x through-hole 1N4148 Diodes
+
 9x MX-Style switches
+
 1x EC11 Rotary encoders
+
 1x 0.91 inch OLED display (the pin order is GND-VCC-SCL-SDA, MAKE SURE YOUR PCB MATCHES)
+
 9x white blank DSA keycaps
+
 9x SK6812 MINI-E LEDs
+
 4x M3x16mm screws
+
 4x M3x5mx4mm heatset inserts
