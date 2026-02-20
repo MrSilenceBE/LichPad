@@ -9,6 +9,11 @@
 
 <img width="1799" height="1490" alt="image" src="https://github.com/user-attachments/assets/2bf66f4e-1a41-4cb5-8ae8-65f1d1325480" />
 
+# Description
+The LichPad is a simple macropad with 9 keys, an OLED and an encoder so it can be used for multiple things.
+Right now the script is very basic and I'm not sure if it will work but once i have it I will try to put more time in fixing it. I made the firmware with the help of a friend who has some experience with coding. For now it just acts as a numpad since the design reminds me of that but it will change. 
+I made this to learn more about electronic projects such as PCB's and also to force myself to overcome certain challenges, and learn how to work with Fusion and KiCad. I will also force myself to learn how to program my project as soon as i get it and experiment with its capabilities. It has been very painful, but I learned a lot.
+
 # BOM
 
 1x Seeed XIAO RP2040
@@ -19,7 +24,7 @@
 
 1x EC11 Rotary encoders
 
-1x 0.91 inch OLED display (the pin order is GND-VCC-SCL-SDA, MAKE SURE YOUR PCB MATCHES)
+1x 0.91 inch OLED display
 
 9x white blank DSA keycaps
 
